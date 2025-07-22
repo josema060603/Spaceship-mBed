@@ -1,1 +1,2 @@
 Spaceship Game on mBed RTOS – Designed and implemented a real-time game featuring dynamic object generation, structured gameplay logic using data structures, and multi-modal input. Integrated joystick and button controls for user interaction, with game visuals rendered via UART-connected screen. Demonstrated full functionality in working hardware video.
+Link to the demos: https://drive.google.com/drive/folders/13T6PyebvKZiVpa2cagG9uwJEm_QKZbNL?usp=sharing
